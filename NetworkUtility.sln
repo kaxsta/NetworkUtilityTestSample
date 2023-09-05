@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility", "NetworkUtility\NetworkUtility.csproj", "{13C48C4C-C75D-4F48-B015-91717FB3934C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtility.Tests", "NetworkUtility.Tests\NetworkUtility.Tests.csproj", "{ED9FA055-A51F-4C41-97DB-176AC683A733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{0C3FCD8C-B7A1-45A5-81D9-6FAC2D4AB75A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C48C4C-C75D-4F48-B015-91717FB3934C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C48C4C-C75D-4F48-B015-91717FB3934C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C48C4C-C75D-4F48-B015-91717FB3934C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C48C4C-C75D-4F48-B015-91717FB3934C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9FA055-A51F-4C41-97DB-176AC683A733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9FA055-A51F-4C41-97DB-176AC683A733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9FA055-A51F-4C41-97DB-176AC683A733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9FA055-A51F-4C41-97DB-176AC683A733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3FCD8C-B7A1-45A5-81D9-6FAC2D4AB75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3FCD8C-B7A1-45A5-81D9-6FAC2D4AB75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3FCD8C-B7A1-45A5-81D9-6FAC2D4AB75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3FCD8C-B7A1-45A5-81D9-6FAC2D4AB75A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
